@@ -1,0 +1,17 @@
+{
+	"name": "assets",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"start": "node index.mjs"
+	},
+	"keywords": [],
+	"dependencies": {
+		"node-fetch": "^3.3.2",
+		"react": "^19.0.0",
+		"satori": "^0.12.1",
+		"sharp": "^0.33.5"
+	}
+}
